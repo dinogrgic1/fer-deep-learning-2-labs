@@ -2,7 +2,8 @@ from __future__ import annotations
 
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field
-from typing import TypeAlias, Union
+from typing import Union
+from typing_extensions import TypeAlias
 
 import numpy as np
 
