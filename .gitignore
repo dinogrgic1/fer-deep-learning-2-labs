@@ -180,3 +180,9 @@ poetry.toml
 
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
+.idea/vcs.xml
+.idea/fer-deep-learning-2-labs.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
