@@ -8,8 +8,6 @@ All laboratory exercises are jupyter notebooks. Cuda environment with all necess
 
 [Deep Learning 2 (EN)](https://www.fer.unizg.hr/en/course/deelea2)
 
----
-
 ## Exercises
 - [Uvod u generativne modele (Introduction to Generative Models)](/lab1)
 - [Varijacijski autoenkoderi (Variational Autoencoders)](/lab2)
